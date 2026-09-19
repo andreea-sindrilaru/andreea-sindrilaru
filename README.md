@@ -2,11 +2,7 @@
 
 <p align="center">
   <b>Computer Science & Engineering MSc @ TU/e</b><br>
-  Software Engineer · Researcher at heart · Romanian 🇷🇴 in the Netherlands 🇳🇱
-</p>
-
-<p align="center">
-  <i>I want this profile to be a record of curiosity — not just a collection of finished things.</i>
+  Software Engineer · Romanian 🇷🇴 in the Netherlands 🇳🇱
 </p>
 
 ---
