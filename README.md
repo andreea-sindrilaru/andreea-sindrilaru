@@ -184,14 +184,14 @@ I'd rather keep getting better at **figuring things out**.
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=andreea-sindrilaru&show_icons=true&hide_border=true&theme=transparent"
+    src="https://github-stats-extended.vercel.app/api?username=andreea-sindrilaru&show_icons=true&hide_border=true&theme=transparent"
     alt="Andreea's GitHub stats"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreea-sindrilaru&layout=compact&hide_border=true&theme=transparent"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=andreea-sindrilaru&layout=compact&hide_border=true&theme=transparent"
     alt="Most used languages"
   />
 </p>
